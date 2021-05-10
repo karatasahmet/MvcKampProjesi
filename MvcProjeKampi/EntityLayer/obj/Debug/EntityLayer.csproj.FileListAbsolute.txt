@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive - Anadolu Üniversitesi - AÖF\Belgeler\mvc_web\MvcProjeKampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Windows\OneDrive - Anadolu Üniversitesi - AÖF\Belgeler\mvc_web\MvcProjeKampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - Anadolu Üniversitesi - AÖF\Belgeler\mvc_web\MvcProjeKampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Windows\OneDrive - Anadolu Üniversitesi - AÖF\Belgeler\mvc_web\MvcProjeKampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Windows\OneDrive - Anadolu Üniversitesi - AÖF\Belgeler\mvc_web\MvcProjeKampı\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Windows\OneDrive - Anadolu Üniversitesi - AÖF\Belgeler\mvc_web\MvcProjeKampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Windows\OneDrive - Anadolu Üniversitesi - AÖF\Belgeler\mvc_web\MvcProjeKampı\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
